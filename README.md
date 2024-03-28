@@ -17,19 +17,6 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
 - [Extra-Curricular Experiential Learning](https://github.com/drshahizan/courses/blob/main/UKQT3001/readme.md)
 - [Value and Identity](https://github.com/drshahizan/courses/blob/main/ULRS1012/readme.md)
 
-## Short Courses
-
-<a href="https://github.com/drshahizan/learn-github/blob/main/pgss.md">
-  <img src="https://github.com/drshahizan/learn-github/blob/main/images/Github_poster.jpeg" alt="Image Alt Text"  height="200">
-</a>
-
-<a href="https://github.com/drshahizan/SLR-FC">
-  <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/all%20slr.jpeg" alt="Image Alt Text"  height="200">
-</a>
-
-<a href="https://github.com/drshahizan/SLR-MIIT">
-  <img src="https://github.com/drshahizan/SLR-MIIT/blob/main/images/MSO-SLR.jpeg" alt="Image Alt Text"  height="200">
-</a>
 
 - 🆕 [PGSS FC - GitHub for Research Students: From Code to Collaboration](https://github.com/drshahizan/learn-github/blob/main/pgss.md)
 - 🆕 [UniKL - Workshop Series on Systematic Literature Review (SLR) Using AI](https://github.com/drshahizan/SLR-MIIT)
